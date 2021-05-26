@@ -1,6 +1,6 @@
 # Refactoring Guru
 
-Here is my execution of the [refactoring.guru](https://refactoring.guru/) website content
+Here is my execution of the [refactoring.guru](https://refactoring.guru/) website content about Design Patterns.
 
 ## Folders Structure
 
